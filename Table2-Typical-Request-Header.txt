@@ -1,0 +1,13 @@
+GET /img/img-09.jpg HTTP/1.1
+Host: 10.1.1.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:54.0) Gecko/20100101 Firefox/54.0
+Accept: */*
+Accept-Language: en-US,en;q=0.7,hi;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://10.1.1.1/pictures.html
+DNT: 1
+Connection: keep-alive
+If-Modified-Since: Sat, 05 Aug 2017 16:44:12 GMT
+If-None-Match: "5009-5560452ce2725"
+Cache-Control: max-age=0
+
