@@ -1,6 +1,10 @@
 # EL-HTTP-Protocol-Mechanisms
 Exercises to understand HTTP Protocol mechanisms to develop high performance applications
 
+## ACCS-EL-HTTP-Protocol-Performance-Mechanisms.pdf\
+The PDF version of the article as appeared in ACCS Magazine
+"Advanced Communications and Computing", Vol 01, Issue 02.
+
 The example and code snippets correspond to the article 
 "HTTP Protocol Mechanisms for High Performance Applications"
 published in ACCS Journal "Advanced Communications and
